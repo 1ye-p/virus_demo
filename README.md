@@ -1,8 +1,9 @@
 # virus_demo
 In order to practice
 
-This file contains malicious code.If you need to practice or analyze, run it in a virtual machine or sandbox.
+注：示例的默认密码均为52pojie
+文件包含恶意代码.如果需要练习或分析，请在虚拟机或沙箱中运行它。
 
-Please run it in a virtual machine or sandbox.
-Please run it in a virtual machine or sandbox.
-Please run it in a virtual machine or sandbox.
+请在虚拟机或沙箱中运行它。
+请在虚拟机或沙箱中运行它。
+请在虚拟机或沙箱中运行它。
